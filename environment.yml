@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+  - damianavila82
+
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-image
+  - rise
