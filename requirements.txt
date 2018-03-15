@@ -5,3 +5,5 @@ pywavelets
 matplotlib
 jupyter
 imageio
+jupyter_contrib_nbextensions
+RISE
